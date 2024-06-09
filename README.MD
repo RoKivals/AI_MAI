@@ -20,6 +20,7 @@
 Курс основывается на курсе Майкрософт (от Сошникова): 
 - (англ. версия) [ИИ для начинающих](https://github.com/microsoft/ai-for-beginners)
 
+[Репозиторий курса](https://github.com/shwars/ai_course)
 
 # Литература для курса
 
