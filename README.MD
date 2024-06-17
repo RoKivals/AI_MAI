@@ -22,5 +22,11 @@
 
 [Репозиторий курса](https://github.com/shwars/ai_course)
 
+Видео-лекции:
+
+1) [Искуственный Интеллект, введение](https://mai.mts-link.ru/44912157/745311110/record-new/889481857)
+2) [Системы основанные на знаниях](https://www.youtube.com/watch?v=IukbYvzHh2I)
+3) [Машинное обучение](https://www.youtube.com/watch?v=qqRXepJgirc&t=2935s)
+
 # Литература для курса
 
